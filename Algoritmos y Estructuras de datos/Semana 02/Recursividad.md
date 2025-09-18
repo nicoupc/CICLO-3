@@ -1,7 +1,3 @@
-### **Tu Guía de Estudio para la Semana 2, Sesión 1: Recursividad 🌀**
-
----
-
 ### **1. ¿Qué es la Recursividad? El Arte de Definirse a Sí Mismo 🤔**
 
 Imagina que quieres explicar qué es una "fila de ancestros". Podrías decir:

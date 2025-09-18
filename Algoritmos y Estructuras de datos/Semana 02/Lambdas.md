@@ -1,7 +1,3 @@
-### **Tu Guía de Estudio para la Semana 2: Funciones Lambda (λ)**
-
----
-
 ### **1. ¿Qué Son las Funciones Lambda? Funciones "Al Instante" ⚡**
 
 Imagina que necesitas una pequeña función de ayuda para una tarea muy específica, por ejemplo, para decirle al algoritmo `sort` que ordene números de mayor a menor.
