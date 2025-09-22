@@ -68,11 +68,11 @@ Una matriz es una tabla que nos dice "sí" o "no".
 **Ejemplo (con los mismos amigos):**
 Creamos una tabla con los nombres en las filas y en las columnas:
 
-|       | Ana | Beto | Carla |
-| :---- | :-: | :--: | :---: |
-| **Ana**   |  0  |  **1**  |   0   | *(Ana sigue a Beto)*
-| **Beto**  | **1** |  0   |   0   | *(Beto sigue a Ana)*
-| **Carla** |  0  |  **1**  |  **1**  | *(Carla sigue a Beto y a sí misma)*
+|           |  Ana  | Beto  | Carla |                                     |
+| :-------- | :---: | :---: | :---: | ----------------------------------- |
+| **Ana**   |   0   | **1** |   0   | *(Ana sigue a Beto)*                |
+| **Beto**  | **1** |   0   |   0   | *(Beto sigue a Ana)*                |
+| **Carla** |   0   | **1** | **1** | *(Carla sigue a Beto y a sí misma)* |
 
 Esta tabla es la **Matriz de la Relación ($M_R$)**. ¡Es súper útil para que las computadoras trabajen con relaciones!
 
