@@ -12,7 +12,7 @@ Para lograr esto, vamos a aprender técnicas, métodos y herramientas que nos ay
 
 ## 🏗️ Primero lo Primero: ¿Qué es la Ingeniería de Software?
 
-¡Empecemos desde cero! Para entender la "Ingeniería de Software", vamos a separar las dos palabras:
+	¡Empecemos desde cero! Para entender la "Ingeniería de Software", vamos a separar las dos palabras:
 
 ### 💾 ¿Qué es Software?
 
